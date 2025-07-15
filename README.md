@@ -22,5 +22,5 @@ Interactive dashboard exploring family variables and crime trends.
 
 ## 📄 Resume & Links
 
-- [Resume PDF]([https://github.com/janemaguire/resume/blob/main/resume.pdf](https://github.com/jcmagu26/jane-maguire-resume/blob/main/Resume%202025.pdf))
+- [Resume PDF](https://github.com/jcmagu26/jane-maguire-resume/blob/main/Resume%202025.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jane-maguire-9624b8291/)
