@@ -1,5 +1,3 @@
-# janemaguire
-
 # 👋 Hi, I'm Jane Maguire
 
 🎓 Data Science major at Colby College | 🧮 Math & 🌱 Environmental Science minors  
