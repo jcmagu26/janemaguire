@@ -7,10 +7,10 @@
 
 ## 🧠 Featured Projects
 
-🔹 [🚲 Bike Sharing Model](https://github.com/janemaguire/bike-sharing-model)  
+🔹 [🚲 Bike Sharing Model](https://github.com/jcmagu26/Bike-Capital-Share-Program)  
 Predicting bike rentals using regression and feature engineering in R.
 
-🔹 [🌧️ Climate Preferences of Jacksonia](https://github.com/jcmagu26/jacksonia-climate-analysis)  
+🔹 [🌧️ Climate Preferences of Jacksonia Species](https://github.com/jcmagu26/jacksonia-climate-analysis)  
 Multivariate analysis of Australian plant species’ rainfall preferences using PERMANOVA and PCA.
 
 🔹 [📊 Shiny Crime Dashboard](https://github.com/janemaguire/crime-dashboard)  
