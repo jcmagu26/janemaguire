@@ -19,7 +19,12 @@ Interactive dashboard analyzing species composition and family-level diversity a
 🔹 [🏈 NFL Team Performance Analysis](https://github.com/jcmagu26/NFL-Combine-Data-Analysis)  
 Data-driven insights into NFL team performance and player statistics using R visualizations.
 
+## 🛠️ Skills
 
+- **Programming & Analysis**: R, Python, SQL  
+- **Data Visualization**: ggplot2, Tableau, PowerBI, Shiny, ArcGIS  
+- **Modeling**: Regression, Time Series, PCA, PERMANOVA  
+- **Other Tools**: Git/GitHub, Excel, LaTeX, Quarto/RMarkdown  
 
 
 ## 📄 Resume & Links
