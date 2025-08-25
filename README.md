@@ -13,10 +13,14 @@ Predicting bike rentals using regression and feature engineering in R.
 🔹 [🌧️ Climate Preferences of Jacksonia Species](https://github.com/jcmagu26/jacksonia-climate-analysis)  
 Multivariate analysis of Australian plant species’ rainfall preferences using PERMANOVA and PCA.
 
-🔹 [📊 Shiny Crime Dashboard](https://github.com/janemaguire/crime-dashboard)  
-Interactive dashboard exploring family variables and crime trends.
+🔹 [🌊 Species Analysis at Maroubra Beach](https://github.com/jcmagu26/Species-Composition-Maroubra)  
+Interactive dashboard analyzing species composition and family-level diversity at a coastal site.
 
----
+🔹 [🏈 NFL Team Performance Analysis]( )  
+Data-driven insights into NFL team performance and player statistics using R visualizations.
+
+
+
 
 ## 📄 Resume & Links
 
