@@ -16,7 +16,7 @@ Multivariate analysis of Australian plant species’ rainfall preferences using 
 🔹 [🌊 Species Analysis at Maroubra Beach](https://github.com/jcmagu26/Species-Composition-Maroubra)  
 Interactive dashboard analyzing species composition and family-level diversity at a coastal site.
 
-🔹 [🏈 NFL Team Performance Analysis]( )  
+🔹 [🏈 NFL Team Performance Analysis](https://github.com/jcmagu26/NFL-Combine-Data-Analysis)  
 Data-driven insights into NFL team performance and player statistics using R visualizations.
 
 
