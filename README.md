@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jane Maguire
 
-🎓 Data Science major at Colby College | 🧮 Math & 🌱 Environmental Science minors  
+🎓 Data Science major at Colby College | Math & Environmental Science minors  
 📍 Interested in data analytics, predictive modeling, and solving real-world problems using data.  
 
 ---
@@ -10,7 +10,7 @@
 🔹 [🚲 Bike Sharing Model](https://github.com/janemaguire/bike-sharing-model)  
 Predicting bike rentals using regression and feature engineering in R.
 
-🔹 [🌧️ Climate Preferences of Jacksonia](https://github.com/janemaguire/jacksonia-climate-analysis)  
+🔹 [🌧️ Climate Preferences of Jacksonia]([https://github.com/janemaguire/jacksonia-climate-analysis](https://github.com/jcmagu26/jacksonia-climate-analysis))  
 Multivariate analysis of Australian plant species’ rainfall preferences using PERMANOVA and PCA.
 
 🔹 [📊 Shiny Crime Dashboard](https://github.com/janemaguire/crime-dashboard)  
