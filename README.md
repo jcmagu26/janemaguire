@@ -26,12 +26,14 @@ Python application simulating NBA matchups using team statistics with an interac
 🔹 [🌱 River Nitrate Prediction](https://github.com/jcmagu26/River-Nitrate-Prediction)  
 Regression modeling and regression trees to investigate environmental drivers of nitrate concentration, with a full written report.
 
-🔹 [🧓 Elderly Mental Health Analysis](https://github.com/jcmagu26/Depression-and-Anxiety-in-the-Elderly)  
-R analysis of the Longitudinal Study of Aging dataset exploring links between mental health, vision impairment, and social activity.
+
 
 ---
 
 ## 📂 Additional Projects
+🔹 [🧓 Elderly Mental Health Analysis](https://github.com/jcmagu26/Depression-and-Anxiety-in-the-Elderly)  
+R analysis of the Longitudinal Study of Aging dataset exploring links between mental health, vision impairment, and social activity.
+
 🔹 [🌧️ Climate Preferences of Jacksonia Species](https://github.com/jcmagu26/jacksonia-climate-analysis)  
 Multivariate analysis of Australian plant species’ rainfall preferences using PERMANOVA and PCA.
 
