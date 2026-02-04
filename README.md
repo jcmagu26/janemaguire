@@ -20,6 +20,9 @@
 🔹 [🚲 Bike Capital Share Program](https://github.com/jcmagu26/Bike-Capital-Share-Program)  
 Statistical analysis and visualization of bike-sharing data in R, presented in a professional poster.
 
+🔹 [⚽️ Mark My Move](https://github.com/jcmagu26/MarkMyMove)
+Computer Vision Tracking App used for tracking an individual athlete across a sports video. 
+
 🔹 [🏀 NBA Game Predictor](https://github.com/jcmagu26/NBA-Game-Predictor)  
 Python application simulating NBA matchups using team statistics with an interactive Tkinter GUI.
 
